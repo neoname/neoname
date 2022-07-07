@@ -1,7 +1,7 @@
 ### ello everybody my name is ~~markiplier~~ neoname
 
 you've reached the lamest github page in history. there is literally nothing of interest here.
-i work mostly on shitpost-style programs or my website
+i work mostly on shitpost-style programs or my (my?) website
 
 <!--
 **neoname/neoname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
